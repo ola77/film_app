@@ -1,6 +1,5 @@
 
 
-Uploading Android Emulator - Pixel_4_XL_API_30_5554 2021-05-23 00-46-22.mp4…
 
 # films_app
 
